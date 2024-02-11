@@ -32,7 +32,7 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 ## 💻 Projeto
 
-Página de portofóli pessoal, meu primeiro projeto realizado com o primeiro curso que encontrei.
+Página de portofóli pessoal, meu primeiro projeto realizado com um curso inicial.
 
 ## 🔖 Layout
 
